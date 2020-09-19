@@ -24,7 +24,7 @@ public class Solution {
         }
       }
     }
-    return closest;
+    return res;
   }
 }
 
